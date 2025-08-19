@@ -16,11 +16,11 @@ A basic mobile authentication app built for practice. This app features a login 
 ### 🔑 Login / Signup Screen
 
 <!-- Add your screenshot below -->
+<img width="342" height="715" alt="image" src="https://github.com/user-attachments/assets/30311a18-f909-4c1c-a52c-53acf9a72079" />
+<img width="322" height="699" alt="image" src="https://github.com/user-attachments/assets/25228e57-44d4-4b98-be63-47e68a59f9f2" />
 ![Login Screen](path/to/login-screenshot.png)
 
 ### 📋 Home / Menu Screen
-<img width="342" height="715" alt="image" src="https://github.com/user-attachments/assets/30311a18-f909-4c1c-a52c-53acf9a72079" />
-<img width="322" height="699" alt="image" src="https://github.com/user-attachments/assets/25228e57-44d4-4b98-be63-47e68a59f9f2" />
 
 
 <!-- Add your screenshot below -->
